@@ -12,10 +12,12 @@ Retail Auto is a modern car dealership website where users can browse real-time 
 
 - 📱 Fully responsive design for mobile, tablet, and desktop
 
-🚀 Live Site
+## 🚀 Live Site
 🔗 [Visit Retail Auto Website](https://retailauto-239a0.web.app/)
 
-🛠️ Tech Stack
-- React – Frontend UI
+## 🛠️ Tech Stack
+- React
 
-- Firebase – Authentication and real-time database
+- Styled-components 
+
+- Firebase
